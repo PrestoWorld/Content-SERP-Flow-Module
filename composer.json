@@ -1,0 +1,15 @@
+{
+    "name": "prestoworld/content-serp-flow",
+    "autoload": {
+        "psr-4": {
+            "PrestoWorld\\ContentSerpFlow\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Puleeno Nguyen",
+            "email": "puleeno@gmail.com"
+        }
+    ],
+    "require": {}
+}
